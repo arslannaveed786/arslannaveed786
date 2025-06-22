@@ -83,7 +83,7 @@ University Of Gujrat (Lahore Sub Campus) (2015-2019)</p>
 <h2 class="heading-element" dir="auto">📫 Connect with Me</h2>
 <ul dir="auto">
 <li>Email: <a href="mailto:arslan.naveed786@outlook.com">arslan.naveed786@outlook.com</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/arslan-naveed-b9a5531a7" rel="nofollow">arslannaveed</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/arslannaveed786" rel="nofollow">arslannaveed</a></li>
 <li>GitHub: <a href="https://github.com/arslannaveed786">@arslannaveed786</a></li>
 </ul>
 
