@@ -18,7 +18,7 @@ Driven by a commitment to continuous learning and staying at the forefront of in
 - 👯 I’m looking to collaborate on **Mobile and Web Apps**
 - 🤝 I’m looking for help with **DevOps & CI/CD**
 - 💬 Ask me about **React Native, Node.js, MongoDB**
-- 📫 How to reach me: **arslan@example.com**
+- 📫 How to reach me: **arslan.naveed786@outlook.com**
 - ⚡ Fun fact: **I love solving bugs more than writing code!**
 
 
